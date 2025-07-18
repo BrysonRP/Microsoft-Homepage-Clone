@@ -1,6 +1,6 @@
 # Microsoft-Homepage-Clone
 
-This project is a front-end **Microsoft-style login page clone**, built with **HTML**, **CSS**, and **JavaScript**. It includes a modern landing page and a sign-in interface, along with features like dark mode toggle, scroll-to-top button, and responsive design for all screen sizes.
+This project is a front-end **Microsoft-style login page clone**, built with **HTML**, **CSS**, and **JavaScript**. It includes a modern landing page and a sign-in interface, along with features like dark mode toggle, scroll-to-top button, and responsive design.
 
 ---
 
